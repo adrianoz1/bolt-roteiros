@@ -1,0 +1,37 @@
+# Sistema e editores
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Segredos
+.env
+.env.*
+!.env.example
+
+# Dependências e builds
+node_modules/
+dist/
+build/
+.cache/
+.turbo/
+
+# Remotion
+out/
+.remotion/
+
+# Mídia bruta e renderizações
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.aiff
+*.psd
+*.blend
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
