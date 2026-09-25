@@ -19,13 +19,15 @@ qual tinha o melhor mercado.
 
 Só que chegamos em 2026...
 
-e parece que ninguém liga tanto pra essa discussão.
+e, de repente, essa briga sumiu.
 
-Porque hoje a pergunta ficou um pouco mais assustadora:
+Agora a pergunta que me pega é outra:
 
-se a IA consegue programar em praticamente qualquer linguagem...
+se a IA escreve código em qualquer linguagem,
 
-a linguagem que você escolhe ainda importa?
+a que eu escolho ainda importa?
+
+Ou o jogo virou outro?
 
 --
 
