@@ -47,26 +47,27 @@ Significa que o jogo mudou.
 
 --
 
-Durante muito tempo, escrever código foi caro.
+E se a gente parar pra pensar,
+até pouco tempo atrás escrever código era caro.
 
-Cada feature precisava de alguém sentado ali,
-transformando uma ideia em dezenas,
+Pra transformar uma ideia em produto,
+alguém precisava sentar e escrever dezenas,
 centenas,
 às vezes milhares de linhas.
 
-Hoje um modelo de IA consegue gerar isso em segundos.
+Hoje uma IA faz isso em segundos.
 
-Então escrever código ficou barato.
+Então o código ficou barato.
 
-Mas barato não significa automático.
+Mas isso não quer dizer que ficou automático.
 
 E muito menos confiável.
 
 O custo não desapareceu.
 
-Ele mudou de lugar.
+Ele só mudou de lugar.
 
-Antes você pagava principalmente pelo tempo do programador escrevendo cada linha.
+Antes você pagava principalmente pelo tempo do programador escrevendo código.
 
 Agora você paga pelos tokens,
 pela infraestrutura,
