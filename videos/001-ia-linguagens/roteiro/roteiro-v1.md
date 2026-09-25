@@ -26,8 +26,6 @@ E nem porque os programadores não gostam dela.
 
 Mas simplesmente pq a IA, nem mesmo sabe que ela existe
 
-
-
 --
 
 A economia mudou.
@@ -54,7 +52,7 @@ pela infraestrutura,
 
 pelos testes, 
 
-pela revisão e pelo dev que vai descobrir por que aquelas quinhentas linhas,
+e pela revisão do dev que vai descobrir por que aquelas quinhentas linhas,
 
 escritas em vinte segundos, não fazem absolutamente nada do que foi pedido.
 
@@ -91,14 +89,13 @@ Agora ela também precisa ser compreendida pelos agentes.
 
 Uma linguagem pode ser tecnicamente incrível e continuar invisível para a IA.
 
-Enquanto outra, muito menos elegante, vence simplesmente porque existe conhecimento suficiente sobre ela.
+Enquanto outra, muito menos elegante, vence simplesmente porque existe documentação suficiente sobre ela.
 
 Isso também não significa que Python e JavaScript vão dominar tudo para sempre.
 
 Uma linguagem nova pode nascer já preparada para esse mundo.
 
 Na minha opinião,
-Talvez seja aquela que consegue provar mais rápido que o código gerado pela IA não é uma completa porcaria.
-
+Será aquela que conseguir provar o mais rápido possivel que o código gerado pela IA não é uma completa porcaria, antes de escrever mais 10 mil linhas em 10s
 
 E você, Ainda acha que Liguagem de programação ainda importa? 
