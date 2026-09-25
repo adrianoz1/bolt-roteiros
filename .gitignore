@@ -34,4 +34,6 @@ out/
 *.tmp
 *.temp
 *.bak
+*.png
+*.jpg
 
