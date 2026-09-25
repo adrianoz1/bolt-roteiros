@@ -196,3 +196,10 @@ Eu acho que sim.
 Só não pelos mesmos motivos de antes.
 
 E talvez essa seja uma das coisas mais interessantes acontecendo com programação agora.
+
+E agora eu quero saber de você:
+
+se fosse começar a programar hoje,
+qual linguagem você escolheria — e por quê?
+
+Me conta aí nos comentários.
