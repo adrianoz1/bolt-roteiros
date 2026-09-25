@@ -15,7 +15,7 @@ Antes de escrever narração, leia [references/voz-e-raciocinio.md](references/v
 2. Identifique a tensão concreta: promessa fácil versus realidade, expectativa versus experiência, excesso de opções versus base necessária, ou outra contradição fornecida pelo usuário.
 3. Escolha uma estrutura em `references/estruturas.md`. Combine estruturas somente quando houver uma razão narrativa clara.
 4. Construa uma cadeia causal. Cada bloco deve criar a necessidade do próximo; evite uma coleção de tópicos independentes.
-5. Encontre a consequência pessoal quando ela existir. Uma experiência verdadeira do Bolt pode ser a virada central do vídeo, não apenas uma ilustração lateral.
+5. Encontre a posição autoral do Bolt. Ela pode aparecer como experiência pessoal, opinião, seleção de exemplos ou consequência prática; não force uma confissão quando a tese já sustenta o vídeo.
 6. Escreva primeiro para a fala. Use português brasileiro natural, contrações e mudanças de ritmo. Parágrafos são unidades de respiração, não capítulos acadêmicos.
 7. Corte tudo que apenas demonstra pesquisa. Estudos de caso e dados devem sustentar a ideia do Bolt sem transformar o vídeo em reportagem.
 8. Inclua humor onde ele nasce do assunto, de uma experiência ou de uma imagem concreta. Não distribua piadas por obrigação.
@@ -37,13 +37,15 @@ Se o usuário fornecer apenas uma ideia, avance com uma tese e uma estrutura pla
 
 - Fale com `você` e trate o espectador como alguém inteligente, mas sujeito às mesmas ilusões do apresentador.
 - Quando criticar um comportamento, inclua o Bolt na crítica se houver base real. A autocrítica reduz o tom professoral.
-- Quando o Bolt fornecer uma confissão que explica por que a pauta importa agora, preserve-a como eixo emocional. Não a esconda depois de um estudo de caso longo.
+- Quando o Bolt mantiver uma confissão que explica por que a pauta importa agora, preserve-a como eixo emocional. Se ele retirá-la durante a edição, mantenha a autoria na tese e nas consequências escolhidas; não a recoloque por fórmula.
 - Troque abstrações por situações visíveis: uma carreira com datas e salários, um esqueleto ganhando pele e vida, um bolo como algoritmo, uma sala vazia no fim da faculdade.
 - Use dados para abrir ou sustentar o argumento; use experiência para dar consequência humana. Indique `[FONTE A VERIFICAR]` quando um dado ainda não estiver confirmado.
 - Apresente conceitos técnicos porque a narrativa passou a precisar deles. Explique em português antes de despejar nomes e siglas.
 - Faça transições causais como “é aí que entra…”, “só que…”, “e se…”, “por outro lado…”. Varie; não repita a mesma fórmula em série.
 - Evite apoios automáticos como “pensa comigo” quando uma pergunta direta já conduz o espectador.
 - Prefira uma evidência forte a uma sequência completa de fatos que interrompe o raciocínio pessoal.
+- Para ampliar um roteiro curto, acrescente blocos modulares de causa → custo → punchline. Evite preencher duração com uma explicação contínua do mecanismo.
+- Prefira consequências concretas como tokens, infraestrutura, testes e revisão quando elas explicarem melhor a mudança do que uma descrição abstrata do modelo.
 
 ### Encerramento
 
@@ -61,6 +63,7 @@ Se o usuário fornecer apenas uma ideia, avance com uma tese e uma estrutura pla
 - Permita comentários laterais curtos, desde que retornem imediatamente ao argumento.
 - Leia mentalmente em voz alta. Remova construções que soem escritas, conectores formais e enumerações que o apresentador não diria diante da câmera.
 - Preserve contrações e assimetrias úteis da fala, mas corrija ortografia e acentuação. Erro de digitação não é voz.
+- Quando o roteiro também funcionar como mapa de edição, preserve uma ideia por linha, separadores `--` e marcações visuais entre `< >`. Não transforme automaticamente esse formato em parágrafos.
 
 ## Limites
 
@@ -91,7 +94,7 @@ Confirme:
 
 - O hook abre uma tensão real e recebe resposta no vídeo.
 - O espectador entende por que cada bloco vem depois do anterior.
-- A ideia pessoal continua sendo o centro e as evidências não assumiram o protagonismo.
+- A tese autoral continua sendo o centro e as evidências não assumiram o protagonismo.
 - O roteiro está no menor tamanho que preserva a entrega.
 - Há pelo menos uma imagem, experiência, analogia ou situação concreta sustentando as ideias centrais.
 - O humor pertence ao assunto.

@@ -9,9 +9,11 @@ Este repositório pertence ao canal Bolt e reúne toda a produção de seus víd
 - Comece pela tensão concreta; evite saudações, apresentações institucionais e suspense vazio.
 - Organize os blocos em uma cadeia causal. Cada parte deve criar a necessidade da próxima.
 - Alterne provocação, proximidade e explicação técnica.
-- Trate a posição pessoal do Bolt como centro do roteiro quando ela explicar por que a pauta importa agora.
+- Trate a tese do Bolt como centro. Use experiência pessoal somente quando ela permanecer na direção escolhida para o vídeo.
 - Use casos, pesquisas e empresas como evidência; corte-os quando começarem a transformar o vídeo em reportagem.
 - Prefira a versão mais curta que entrega a tese. Não escreva para preencher uma duração estimada.
+- Para ampliar um roteiro, prefira módulos curtos de causa, custo concreto e punchline.
+- Preserve separadores `--`, uma ideia por linha e marcações visuais entre `< >` quando o roteiro funcionar como mapa de edição.
 - Use gírias com moderação e somente quando soarem naturais.
 - Não invente experiências, opiniões, resultados, vulnerabilidades ou autoridade do apresentador.
 - Marque informações ausentes como `[EXPERIÊNCIA DO BOLT]` ou `[FONTE A VERIFICAR]`.

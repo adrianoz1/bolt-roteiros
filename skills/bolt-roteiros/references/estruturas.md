@@ -29,6 +29,21 @@ Use quando uma mudança tecnológica altera a relação do Bolt com programaçã
 
 Não inclua um estudo de caso longo entre os passos 2 e 4 quando a experiência pessoal já prova por que o tema importa.
 
+### Variação: manifesto técnico curto
+
+Use quando a tese e suas consequências sustentam o vídeo sem relato pessoal.
+
+1. Abra com uma memória ou disputa reconhecível pelo público.
+2. Mostre o que mudou em uma frase.
+3. Faça uma previsão provocativa.
+4. Negue explicações óbvias em frases curtas.
+5. Revele a causa central.
+6. Mostre onde o custo ou o problema foi parar com uma lista concreta.
+7. Rejeite a conclusão extrema.
+8. Feche devolvendo a pergunta do título ao espectador.
+
+Para aumentar a duração, aprofunde os passos 5 e 6 com módulos independentes. Cada módulo precisa terminar numa frase de contraste; não acrescente uma aula completa sobre o mecanismo.
+
 ## 2. Trajetória que testa uma promessa
 
 Use para carreira, salários, aprendizado ou evolução profissional.

@@ -35,3 +35,7 @@ Manifesto técnico com estudo de caso. A abertura apresenta a tensão entre ling
 - A revisão do Bolt retirou o estudo de caso longo da Scarf para manter a ideia pessoal como centro do vídeo.
 - O roteiro não será expandido para preencher uma duração estimada.
 - O CTA pode comentar o próprio momento do canal quando isso for mais verdadeiro que prometer uma continuação.
+- Na revisão seguinte, o Bolt removeu a passagem pessoal e manteve a autoria na tese econômica e nas punchlines.
+- Das expansões propostas, permaneceram o deslocamento do custo para tokens, infraestrutura, testes e revisão; a necessidade de a linguagem ser compreendida por agentes; e a conclusão de que o ecossistema precisa provar rapidamente a qualidade do código gerado.
+- Explicações longas sobre treinamento, compilação e ciclo completo dos agentes foram descartadas para preservar a edição acelerada.
+- O formato com uma ideia por linha, `--` e referências entre `< >` deve ser preservado como mapa de edição.

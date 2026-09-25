@@ -14,13 +14,38 @@ A voz combina três posições:
 
 Um bom roteiro alterna essas posições. Ficar apenas no provocador vira discurso; apenas no colega vira desabafo; apenas no professor perde personalidade.
 
-## A ideia pessoal acima da reportagem
+## A tese do Bolt acima da reportagem
 
 O Bolt prefere usar casos externos como apoio, não como protagonista. Quando uma empresa, estudo ou tecnologia começa a ocupar mais espaço do que a posição do apresentador, o roteiro perde identidade mesmo que continue tecnicamente bom.
 
-Uma confissão verdadeira pode substituir vários minutos de explicação porque conecta a pauta ao momento do canal. No vídeo sobre linguagens na era dos agentes, o Bolt retirou um estudo de caso longo e colocou no centro seu desânimo com conteúdo sobre código, o tempo afastado do editor e sua recusa em perseguir hypes efêmeros. Esse movimento revela uma preferência: quando o assunto técnico atinge sua relação com programação e criação, essa consequência humana é a entrega principal.
+Autoria não significa autobiografia obrigatória. Uma confissão verdadeira pode sustentar um vídeo quando o Bolt decidir mantê-la, mas a posição também aparece no recorte da tese, nos custos que ele escolhe mostrar e nas conclusões que rejeita.
 
-Esses fatos foram confirmados em setembro de 2026 e são datados. Reutilize-os somente quando a pauta pedir e quando ainda fizerem sentido; não os transforme em introdução padrão.
+No vídeo sobre linguagens na era dos agentes, o Bolt retirou tanto o estudo de caso longo quanto uma passagem confessional de uma versão anterior. A versão mais recente mantém a autoria por meio de uma tese econômica: gerar código ficou barato, enquanto confiança, testes, infraestrutura e revisão continuam caros. Isso mostra que uma experiência pessoal confirmada não deve ser recolocada depois que a edição decidiu que ela não serve ao ritmo atual.
+
+## Roteiro como mapa de edição
+
+O Bolt escreve alguns roteiros em unidades visuais e respiratórias:
+
+- uma ideia curta por linha;
+- `--` para marcar viradas ou cortes;
+- referências entre `< >` para indicar meme, pessoa ou insert;
+- listas verticais para criar aceleração;
+- uma frase curta depois da lista para funcionar como punchline.
+
+Preserve essa estrutura quando revisar. Ela organiza a edição dinâmica e não é apenas formatação provisória.
+
+## Como ampliar sem perder velocidade
+
+Na revisão mais recente do vídeo 001, o Bolt manteve expansões sobre a mudança do custo do software e sobre a necessidade de uma linguagem ser compreendida por agentes. Ele descartou explicações maiores sobre dados de treinamento, compilação e ciclos completos de execução.
+
+O padrão preferido para expansão foi:
+
+1. declarar a mudança;
+2. listar custos ou consequências concretas;
+3. fechar com uma frase curta e memorável;
+4. voltar imediatamente à tese.
+
+Exemplo abstrato do ritmo: algo ficou mais barato → o custo mudou de lugar → enumeração visível → contraste final. Use o mecanismo sem copiar as frases do roteiro.
 
 ## Como as ideias avançam
 
@@ -67,6 +92,7 @@ Uma analogia forte pode sustentar vários minutos, mas deve continuar correspond
 - Pergunta e resposta criam transições naturais.
 - Repetição pode aumentar pressão emocional, especialmente em críticas e relatos pessoais.
 - Uma sequência de frases isoladas pode negar alternativas até revelar a causa real.
+- Listas faladas podem ser quebradas em linhas individuais para sincronizar inserts e manter aceleração.
 
 ### Vocabulário
 
@@ -105,7 +131,7 @@ Não invente nenhum desses elementos. Quando o material não existir, peça ao u
 
 A conclusão costuma ser mais equilibrada que o hook. O roteiro pode começar com confronto e terminar reconhecendo benefícios, limites e o custo real do caminho.
 
-O CTA pode apontar para o próximo passo lógico ou comentar o próprio estado do canal. Em vídeos pessoais, uma despedida autoconsciente, incerta ou anticlimática pode ser mais autêntica do que uma promessa de conteúdo futuro. Depois dela, o vídeo termina sem uma segunda conclusão.
+O CTA pode apontar para o próximo passo lógico, comentar o próprio estado do canal ou devolver a pergunta central diretamente ao espectador. Quando o título já é uma pergunta, retomá-la no fim pode fechar o ciclo sem uma segunda conclusão.
 
 ## Sinais de voz falsa
 
@@ -118,3 +144,5 @@ O CTA pode apontar para o próximo passo lógico ou comentar o próprio estado d
 - Hook grandioso que o corpo do vídeo não prova.
 - Estudo de caso completo que transforma a voz do Bolt em narração de documentário.
 - Duração artificial criada com explicações que não mudam a conclusão.
+- Confissão pessoal recolocada apenas porque apareceu numa versão anterior.
+- Expansão que explica o funcionamento inteiro quando uma consequência econômica já prova o ponto.

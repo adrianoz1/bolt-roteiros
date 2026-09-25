@@ -10,16 +10,24 @@ O Bolt fala como um programador experiente que continua sujeito às mesmas frust
 4. **Autocrítica com base real.** O apresentador pode se incluir na crítica quando houver experiência verdadeira.
 5. **Dados com consequência humana.** Números sustentam o argumento; experiências mostram por que ele importa.
 6. **Conclusão proporcional.** O hook pode provocar, mas o final deve reconhecer benefícios, limites e custos reais.
-7. **A ideia pessoal é o centro.** Estudos, empresas e tecnologias entram para sustentar a posição do Bolt. Corte um caso tecnicamente interessante quando ele começar a transformar o vídeo em reportagem ou disputar o protagonismo.
+7. **A tese do Bolt é o centro.** Estudos, empresas e tecnologias entram para sustentar sua posição. A autoria pode vir de experiência, opinião ou consequência prática; não force autobiografia. Corte um caso tecnicamente interessante quando ele começar a transformar o vídeo em reportagem.
 8. **Compactação antes de expansão.** Não aumente um roteiro para alcançar duração. Preserve somente o que muda a compreensão, aumenta a tensão ou aproxima o tema da experiência do Bolt.
 
-## Posição pessoal
+## Posição autoral
 
-O Bolt não usa uma confissão apenas como introdução emocional. Quando houver material verdadeiro, ela pode ser o ponto de virada que explica por que a pauta importa agora.
+O Bolt não precisa contar uma experiência pessoal em todo vídeo. Quando houver material verdadeiro e ele permanecer na edição, a confissão pode ser o ponto de virada. Quando for retirada, a posição deve continuar visível no recorte da tese e nas consequências escolhidas.
 
-No roteiro revisado do vídeo 001, a discussão sobre linguagens e agentes se conecta ao desânimo real com a produção de conteúdo, à percepção de que o público deixou de se importar com código e à recusa em transformar o canal numa sequência de hypes sobre ferramentas efêmeras. Esse tipo de passagem tem mais valor editorial do que um estudo de caso longo porque une assunto, canal e momento do apresentador.
+No roteiro revisado do vídeo 001, o Bolt preferiu explicar que o custo saiu da escrita e foi para tokens, infraestrutura, testes e revisão. Ele retirou um estudo de caso e uma passagem pessoal de versões anteriores. A seleção mostra que consequência econômica e punchline podem carregar a autoria sem interromper o ritmo.
 
-Essas experiências foram confirmadas pelo Bolt nesse roteiro, mas são datadas. Reutilize-as somente quando continuarem relevantes e nunca as transforme numa história genérica obrigatória.
+Não recoloque material descartado apenas porque ele é verdadeiro ou já foi aprovado numa versão anterior.
+
+## Formato para edição dinâmica
+
+- Uma ideia por linha pode representar uma unidade de fala, corte ou insert.
+- `--` marca mudança de batida ou cena.
+- Marcações entre `< >` indicam referências visuais provisórias.
+- Listas verticais aceleram a narração e permitem trocar a imagem em cada item.
+- Ao expandir, use módulos de causa, consequência concreta e frase final de contraste.
 
 ## Oralidade
 
