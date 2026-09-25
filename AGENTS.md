@@ -9,11 +9,16 @@ Este repositório pertence ao canal Bolt e reúne toda a produção de seus víd
 - Comece pela tensão concreta; evite saudações, apresentações institucionais e suspense vazio.
 - Organize os blocos em uma cadeia causal. Cada parte deve criar a necessidade da próxima.
 - Alterne provocação, proximidade e explicação técnica.
+- Trate a posição pessoal do Bolt como centro do roteiro quando ela explicar por que a pauta importa agora.
+- Use casos, pesquisas e empresas como evidência; corte-os quando começarem a transformar o vídeo em reportagem.
+- Prefira a versão mais curta que entrega a tese. Não escreva para preencher uma duração estimada.
 - Use gírias com moderação e somente quando soarem naturais.
 - Não invente experiências, opiniões, resultados, vulnerabilidades ou autoridade do apresentador.
 - Marque informações ausentes como `[EXPERIÊNCIA DO BOLT]` ou `[FONTE A VERIFICAR]`.
 - Não transforme toda pauta em ataque a gurus.
-- Feche logo depois da conclusão e faça o CTA nascer da próxima dúvida do espectador.
+- Explore de duas a quatro opções de título durante o rascunho, com ângulos realmente diferentes.
+- Feche logo depois da conclusão. O CTA pode nascer da próxima dúvida ou, em vídeos confessionais, do próprio momento do canal.
+- Preserve oralidade e contrações, mas não reproduza erros ortográficos como recurso de voz.
 
 Para escrever ou revisar roteiros, aplique a skill global `bolt-roteiros` quando ela estiver disponível.
 
@@ -32,4 +37,3 @@ Para escrever ou revisar roteiros, aplique a skill global `bolt-roteiros` quando
 - Cada cena precisa indicar objetivo, elementos, movimento e relação com a fala.
 - Antes de reutilizar um padrão visual antigo, confira `brand/` e o `README.md` do vídeo atual.
 - Regras visuais só se tornam padrão do canal depois de aprovação explícita do Bolt.
-

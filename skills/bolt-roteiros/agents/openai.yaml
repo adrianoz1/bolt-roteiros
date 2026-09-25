@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bolt Roteiros"
+  short_description: "Escreve roteiros no estilo autêntico do canal Bolt"
+  default_prompt: "Transforme esta ideia em um roteiro para o canal Bolt, preservando minha voz, meu raciocínio e meu humor."

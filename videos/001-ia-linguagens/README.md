@@ -2,7 +2,7 @@
 
 ## Estado
 
-Roteiro v1 concluído. Aguardando revisão editorial do Bolt.
+Roteiro v1 revisado diretamente pelo Bolt. A versão passou a ser referência editorial para concisão, virada pessoal e encerramento autoconsciente.
 
 ## Tese
 
@@ -32,4 +32,6 @@ Manifesto técnico com estudo de caso. A abertura apresenta a tensão entre ling
 - O texto de origem terminava incompleto aos 06:20; a conclusão foi reconstruída com base na publicação original da Scarf.
 - Experiências pessoais pertencentes ao autor do material de referência foram removidas.
 - O bloco do CodeRabbit não foi incorporado, pois o projeto não possui campanha confirmada.
-
+- A revisão do Bolt retirou o estudo de caso longo da Scarf para manter a ideia pessoal como centro do vídeo.
+- O roteiro não será expandido para preencher uma duração estimada.
+- O CTA pode comentar o próprio momento do canal quando isso for mais verdadeiro que prometer uma continuação.

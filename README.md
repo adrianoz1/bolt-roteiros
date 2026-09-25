@@ -9,6 +9,7 @@ Aqui ficam as pautas, pesquisas, versões de roteiro, storyboards, arquivos visu
 ```text
 brand/                     Identidade visual e referências do canal
 docs/                      Guias editoriais e fluxo de produção
+skills/                    Skills do Bolt versionadas com o projeto
 templates/                 Modelos para iniciar novos vídeos
 videos/
   001-nome-do-video/
@@ -43,9 +44,15 @@ videos/
 - Experiências pessoais do Bolt nunca devem ser inventadas.
 - Blocos comerciais só entram no roteiro quando houver campanha e briefing confirmados.
 
+## Skills do projeto
+
+- [`bolt-roteiros`](skills/bolt-roteiros/SKILL.md): escrita e revisão de roteiros na voz do Bolt.
+- [`bolt-visuais`](skills/bolt-visuais/SKILL.md): planejamento e geração de memes, recortes e assets transparentes para a edição acelerada do canal.
+
+As cópias em `skills/` são as versões canônicas e ficam registradas no Git. Para uso pelo Codex, elas também podem ser instaladas no diretório global de skills.
+
 ## Vídeos
 
 | ID | Projeto | Estado |
 | --- | --- | --- |
 | 001 | [A IA pode matar novas linguagens de programação?](videos/001-ia-linguagens/README.md) | Roteiro v1 |
-
