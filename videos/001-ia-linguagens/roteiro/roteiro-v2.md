@@ -83,37 +83,29 @@ Ter confiança nesse código ainda não.
 
 --
 
-E é aqui que a escolha da linguagem começa a ficar interessante de novo.
+E é aqui que a escolha da linguagem fica interessante de novo.
 
-Porque um agente de IA não sente prazer olhando uma abstração elegante.
+Porque a IA não liga se uma linguagem é bonita ou elegante.
 
-Ele não participa da comunidade.
+Ela escreve o código,
+roda
+e vê se funcionou.
 
-Ele não tem carinho pela filosofia da linguagem.
+E quanto mais fácil for descobrir que ela fez besteira,
+melhor.
 
-O agente altera um arquivo,
-executa uma ferramenta,
-recebe uma resposta
+Um erro claro,
+um teste que falhou,
+uma documentação boa...
 
-e tenta descobrir se fez a coisa certa.
+Tudo isso ajuda a IA a corrigir o código
+antes de continuar fazendo mais besteira.
 
-Quanto mais rápido e mais claro for esse feedback,
-melhor ele consegue trabalhar.
+E talvez esse seja um novo critério pra escolher uma linguagem:
 
-Um compilador que aponta exatamente onde está o erro.
+não só o quanto ela é boa pra gente programar...
 
-Um sistema de tipos que impede certas besteiras antes do código rodar.
-
-Testes rápidos.
-
-Ferramentas previsíveis.
-
-Documentação e exemplos suficientes para o modelo entender como aquele ecossistema funciona.
-
-De repente, características que sempre foram importantes para humanos
-ganham uma segunda função:
-
-ajudar máquinas a escrever e validar código também.
+mas o quanto ela é boa pra IA programar também.
 
 --
 
