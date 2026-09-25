@@ -2,7 +2,7 @@
 
 Lembra quando a internet brigava por linguagem de programação?
 
-Sempre tinha o cara que defendia JAVA como se fosse time de futebol.
+Sempre tinha o cara que defendia JAVA.
 <samuca>
 
 E, claro, sempre tinha alguém pronto pra falar mal de PHP.
